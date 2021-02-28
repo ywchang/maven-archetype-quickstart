@@ -10,6 +10,7 @@
   <packaging>maven-archetype</packaging>
 
   <name>${project.groupId}:${project.artifactId}</name>
+  <description>Provide up-to-date java quickstart archetype</description>
 
   <url>https://github.com/ywchang/maven-archetype-quickstart</url>
 
@@ -116,7 +117,7 @@
       </plugin>
     </plugins>
   </build>
-  
+
   <scm>
     <connection>scm:git:git://github.com/ywchang/maven-archetype-quickstart.git</connection>
     <developerConnection>scm:git:ssh://github.com:ywchang/maven-archetype-quickstart.git</developerConnection>
