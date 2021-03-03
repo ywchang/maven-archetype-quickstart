@@ -1,6 +1,6 @@
 # maven-archetype-quickstart
 
-This project provides an up to date maven-archetype-quickstart. The artifact has been pushed to Maven Central Repository. So you can just use this archetype without the need to clone and pull down the codes.
+This project provides an up to date maven-archetype-quickstart. The artifact has been pushed to [Maven Central Repository](https://search.maven.org/artifact/com.github.ywchang/maven-archetype-quickstart). So you can just use this archetype without the need to clone and pull down the codes.
 
 ## Highlight
 
