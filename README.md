@@ -14,7 +14,7 @@ mvn archetype:generate \
   -DinteractiveMode=false \
   -DarchetypeGroupId=com.github.ywchang \
   -DarchetypeArtifactId=maven-archetype-quickstart \
-  -DarchetypeVersion=1.0 \
+  -DarchetypeVersion=1.1 \
   -DgroupId=<Group Id> \
   -DartifactId=<Artifact Id> \
   -Dversion=1.0-SNAPSHOT
